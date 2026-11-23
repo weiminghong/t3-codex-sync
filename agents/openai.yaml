@@ -1,0 +1,4 @@
+interface:
+  display_name: "T3 Codex 会话同步"
+  short_description: "检查待同步记录，导入 Codex 新会话并增量合并到 T3 Code"
+  default_prompt: "使用 $t3-codex-sync 检查有哪些 Codex 会话和新消息尚未同步到 T3。"
